@@ -1,0 +1,1 @@
+echo 'Hello, Olha, new session was created'
